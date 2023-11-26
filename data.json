@@ -1,0 +1,18 @@
+data = `
+    {
+        "website" : {
+            "title": "Malik Ateeq"
+        },
+        "whatIam" : ["designer", "developer"],
+
+        "homepage": {
+            "cover": {
+                "name": "Malik AteeQ",
+                "typedItems": "Photographer, Developer, Freelancer, Photographer",
+                "facebook": "#",
+                "twitter": "#",
+                "image": "cover.png"
+            }
+        }
+    }
+`;
